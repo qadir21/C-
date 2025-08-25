@@ -41,4 +41,6 @@ void mergeSort(vector<int> &v)
     mergeSort(b);
     //merge
     merge(a, b, v);
+    a.clear();
+    b.clear();
 }
