@@ -1,0 +1,1 @@
+{"name":"Local: basic","url":"/Users/abdulqadir/Desktop/woksSpace/practice/c++/backtracking/basic.cpp","tests":[{"id":1778262376801,"input":"abc","output":"abc\nacb\nbac\nbca\ncab\ncba\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abdulqadir/Desktop/woksSpace/practice/c++/backtracking/basic.cpp","group":"local","local":true}

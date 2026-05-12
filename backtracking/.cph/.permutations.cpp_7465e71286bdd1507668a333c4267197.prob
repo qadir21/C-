@@ -1,0 +1,1 @@
+{"name":"Local: permutations","url":"/Users/abdulqadir/Desktop/woksSpace/practice/c++/backtracking/permutations.cpp","tests":[{"id":1778296850965,"input":"abc","output":"abc\nacb\nbac\nbca\ncba\ncab\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abdulqadir/Desktop/woksSpace/practice/c++/backtracking/permutations.cpp","group":"local","local":true}
